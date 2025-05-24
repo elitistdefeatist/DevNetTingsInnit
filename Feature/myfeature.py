@@ -21,3 +21,5 @@ def enhanced_feature(data):
 if __name__ == "__main__":
     sample_data = "Sample input"
     print(enhanced_feature(sample_data)) 
+    print("Welcome to DevAsc") 
+    print("This is my feature module.")
